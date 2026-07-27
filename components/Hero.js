@@ -53,7 +53,7 @@ export default function Hero() {
               download="Sristy_Verma_Resume.pdf"
               className="rounded-xl border border-violet-400/30 bg-violet-400/10 px-6 py-3.5 text-sm font-bold text-violet-200 transition duration-300 hover:-translate-y-1 hover:border-violet-300/60 hover:bg-violet-400/20 hover:text-white"
             >
-              Download résumé
+              Resume
             </a>
           </div>
 
