@@ -52,6 +52,7 @@ const projects = [
     technologies: ["Next.js", "React", "Tailwind CSS"],
     status: "Active",
     featured: false,
+    liveUrl: "https://sristy-portfolio.vercel.app/",
   },
 ];
 

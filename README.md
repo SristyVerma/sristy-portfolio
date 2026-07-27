@@ -3,6 +3,8 @@
 A personal frontend developer portfolio built with Next.js, React, and Tailwind
 CSS.
 
+**Live site:** [sristy-portfolio.vercel.app](https://sristy-portfolio.vercel.app/)
+
 ## What is inside
 
 - A responsive single-page portfolio layout

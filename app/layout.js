@@ -12,9 +12,20 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
+  metadataBase: new URL("https://sristy-portfolio.vercel.app"),
   title: "Sristy Verma | Frontend Developer",
   description:
     "Sristy Verma is a frontend developer with 2.7 years of experience building responsive React applications.",
+  alternates: {
+    canonical: "/",
+  },
+  openGraph: {
+    title: "Sristy Verma | Frontend Developer",
+    description:
+      "Frontend developer with 2.7 years of experience building responsive React applications.",
+    url: "/",
+    type: "website",
+  },
   keywords: [
     "Sristy Verma",
     "Frontend Developer",
